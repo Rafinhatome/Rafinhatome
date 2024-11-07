@@ -7,11 +7,46 @@
 [![GitHub followers](https://img.shields.io/github/followers/AndreiVidal?style=social&target=_blank)](https://github.com/Rafinhatome)
 
 ## Sobre Mim
-Olá! Sou uma pessoa criativa e curiosa, apaixonada por
-analisar e compreender as nuances do mundo ao meu redor.
-Tenho um fascínio especial pela análise de dados, buscando
-insights que possam impulsionar melhorias e otimizar a
-performance em diferentes áreas.
+Cientista de Dados com forte experiência em **análise de dados**, **machine learning** e **visualização de dados**. Ao longo da minha carreira, desenvolvi expertise em análise avançada utilizando **Python**, **Pandas**, **Power BI** e bibliotecas como Scikit-learn e Geopandas para gerar insights de negócios e otimizar processos. Com MBA em Business Intelligence e formação em marketing, trago uma perspectiva diferenciada na interpretação de dados e estratégias baseadas em dados para impulsionar resultados.
+
+Minhas áreas de especialidade incluem: 
+
+• Modelagem preditiva e algoritmos de Machine Learning.
+
+• Criação de dashboards interativos com Power BI e Python.
+
+• Manipulação e visualização de dados geoespaciais com Geopandas.
+
+• Desenvolvimento de APIs com FastAPI para integração de dados.
+
+• Testes de hipóteses e análises estatísticas complexas.
+
+Estou buscando contribuir com minha experiência em projetos desafiadores de ciência de dados, onde possa aplicar minha paixão por dados para impactar decisões estratégicas e o crescimento dos negócios.
+
+Tenho alguns projetos que podem ser interessantes que podem ser acessados por esses links:
+
+## Projetos
+<div>
+<a href="https://github.com/Rafinhatome/Projeto-Imobiliaria" target="_blank"><img src="https://img.shields.io/badge/Imobiliária-blue" target="_blank"></a> 
+<div>
+
+ Projeto conta com atividades de Web Scraping, Limpeza de dados, Análise de dados, Machine Learning e Dashboard interativo.
+
+ <div>
+<a href="https://github.com/Rafinhatome/Portifolio" target="_blank"><img src="https://img.shields.io/badge/Portifólio-blue" target="_blank"></a>
+
+No portifólio existem diversos projetos, dentre deles se destacam Dashboards em **Power BI**, **Machine Learning** e outros.
+
+<div>
+<a href="https://github.com/Rafinhatome/dashboard_vendas" target="_blank"><img src="https://img.shields.io/badge/Dashboard Vendas-blue" target="_blank"></a>  
+</div>
+
+Esse projeto foi desenvolvido como plano de estudo em **Streamlit** e **Python**.
+
+
+
+
+Mais projetos estão sendo desenvolvidos, aguarde :)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafinhatome&show_icons=true&bg_color=00000000)
